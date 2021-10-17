@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aba9de68-0e87-4c2b-9ab6-a1d86115d694" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1zbqJniM88hVGD2RanZ0h7b07Nj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="TestNG.loginOnInternetWithArchive.test1">
+    <configuration name="LoginWithInvalidInputs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Zadatak" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InternetArchive.Tests.PC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NIRI.Tests.PC" />
+      <option name="MAIN_CLASS_NAME" value="InternetArchive.Tests.PC.LoginWithInvalidInputs" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginWithInvalidInputsOnMobile.loginWithBadInputs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Zadatak" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InternetArchive.Tests.Mobile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="InternetArchive.Tests.Mobile" />
+      <option name="MAIN_CLASS_NAME" value="InternetArchive.Tests.Mobile.LoginWithInvalidInputsOnMobile" />
+      <option name="METHOD_NAME" value="loginWithBadInputs" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/pepe/Documents/internetArchiveFinalni/zadatak-master/LoginWithInvalidInputMobile.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Zadatak" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/zadatak-master/LoginWithInvalidInputMobile.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/pepe/Documents/internetArchiveFinalni/zadatak-master/RegistrationAndLoginTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Zadatak" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/zadatak-master/RegistrationAndLoginTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loginOnInternetWithArchive.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Zadatak" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InternetArchive.Tests.PC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="InternetArchive.Tests.PC" />
+      <option name="MAIN_CLASS_NAME" value="InternetArchive.Tests.PC.loginOnInternetWithArchive" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.loginOnInternetWithArchive.test1" />
+        <item itemvalue="TestNG./home/pepe/Documents/internetArchiveFinalni/zadatak-master/RegistrationAndLoginTest.xml" />
+        <item itemvalue="TestNG.LoginWithInvalidInputsOnMobile.loginWithBadInputs" />
+        <item itemvalue="TestNG.LoginWithInvalidInputs" />
+        <item itemvalue="TestNG./home/pepe/Documents/internetArchiveFinalni/zadatak-master/LoginWithInvalidInputMobile.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aba9de68-0e87-4c2b-9ab6-a1d86115d694" name="Changes" comment="" />
+      <created>1634427065225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634427065225</updated>
+    </task>
+    <servers />
+  </component>
+</project>

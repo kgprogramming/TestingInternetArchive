@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="login">
+    <test name="Internet Archive">
+        <classes>
+            <class name="InternetArchive.Tests.PC.LoginOnInternetArchive">  </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Zadatak Test">
+
+    <test name="Internet archive">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="InternetArchive.Tests.PC.RegistrationWithInvalidInputs">
+
+            </class>
+        </classes>
+    </test>
+</suite>
